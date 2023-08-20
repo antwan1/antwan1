@@ -1,4 +1,4 @@
-![image](https://github.com/antwan1/antwan1/assets/68503492/89392e51-a9bd-4b2e-8641-b5e1b63437f2)### Hey there! 👋
+### Hey there! 👋
 <br />
 Hi there 👋<br />
 I'm Antonio, a QA Engineer and automation enthusiast based in the UK. Welcome to my GitHub!
