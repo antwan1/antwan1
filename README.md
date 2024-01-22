@@ -1,3 +1,7 @@
+
+![1705274542886](https://github.com/antwan1/antwan1/assets/68503492/643be72f-319f-4e12-ba7d-19da7fa517f3)
+
+
 ### Hey there! 👋
 <br />
 Hi there 👋<br />
@@ -6,16 +10,15 @@ I'm Antonio, a QA Engineer and automation enthusiast based in the UK. Welcome to
 <br />
 🔭 I'm currently working on...<br />
 Automating web, API, and performance testing processes at Greene King
-Building out scalable test frameworks using Selenium, Appium, Cypress, and more
+Building out scalable test frameworks using Selenium, Cypress, and more
 Expanding my knowledge of e2e testing, CI/CD pipelines, and release management
 Learning everything I can about quality-focused engineering practices!
 <br />
 <br />
 <br />🌱 I'm currently learning...<br />
-New test automation frameworks like Playwright
-Mobile test automation with Appium
+Improving my Test suite for Cypress
+Becoming a bug hunter to incorporate security testing into my daily activities
 Performance testing tools like k6
-Test technique concepts like shift-left testing
 <br />
 <br />
 <br />👯 I'm looking to collaborate on...<br />
@@ -26,7 +29,7 @@ Opportunities to advance QA skills and connections
 <br />
 <br />
 <br />🤔 I'm looking for help with...<br />
-Breaking into more senior QA/SDET roles
+Breaking into more senior QA/SDET/Security roles
 Finding great mentors in the software testing community
 Building out my technical skills and project portfolio
 <br />
