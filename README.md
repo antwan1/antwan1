@@ -2,12 +2,12 @@
 ![1705274542886](https://github.com/antwan1/antwan1/assets/68503492/643be72f-319f-4e12-ba7d-19da7fa517f3)
 
 
-### Hey there! 👋
+<h1 style ="text-align: center;"> Welcome!</h1>
 <br />
 
 I'm Antonio, a QA Engineer and automation enthusiast based in the UK. Welcome to my GitHub!
 
-Statistics
+### Statistics
 <br />
 <br />
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=antwan1&show_icons=true&theme=radical)
