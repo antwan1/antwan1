@@ -6,6 +6,11 @@
 <br />
 
 I'm Antonio, a QA Engineer and automation enthusiast based in the UK. Welcome to my GitHub!
+
+Here are the Statistics:
+<br />
+<br />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=antwan1)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 <br />
 🔭 I'm currently working on...<br />
@@ -41,6 +46,8 @@ Email: antoniore385@gmail.com
 <br />
 <br />⚡ Fun fact:<br />
 I'm a major history buff and love learning about medieval battles and warriors 🗡
+
+
 
 <!--
 **antwan1/antwan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
