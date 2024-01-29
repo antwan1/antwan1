@@ -7,11 +7,11 @@
 
 I'm Antonio, a QA Engineer and automation enthusiast based in the UK. Welcome to my GitHub!
 
-Here are the Statistics:
+Statistics
 <br />
 <br />
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=antwan1&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antwan1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antwan1)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 <br />
 🔭 I'm currently working on...<br />
