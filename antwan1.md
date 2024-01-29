@@ -7,7 +7,7 @@
 
 I'm Antonio, a QA Engineer and automation enthusiast based in the UK. Welcome to my GitHub!
 
-Statistics
+<h2 style ="text-align: center;"> Satistics!</h2>
 <br />
 <br />
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=antwan1&show_icons=true&theme=radical)
