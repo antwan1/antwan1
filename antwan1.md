@@ -4,9 +4,7 @@
 
 <h1 style ="text-align: center;"> Welcome!</h1>
 <br />
-
-I'm Antonio, a QA Engineer and automation enthusiast based in the UK. Welcome to my GitHub!
-
+I'm Antonio, a QA Engineer and Security enthusiast based in the UK. Welcome to my GitHub!
 
 <br />
 <br />
