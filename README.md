@@ -10,7 +10,7 @@ I'm Antonio, a QA Engineer and Security enthusiast based in the UK. Welcome to m
 <br />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=antwan1&show_icons=true&theme=radical)
-<br / >
+<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antwan1&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
