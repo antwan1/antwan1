@@ -15,20 +15,19 @@ I'm Antonio, a QA Engineer and Security enthusiast based in the UK. Welcome to m
 <br />
 <br />
 🔭 I'm currently working on...<br />
-Automating web, API, and performance testing processes at Greene King
-Building out scalable test frameworks using Selenium, Cypress, and more
+Automating web, API, and performance testing processes at Edgefolio
+Building out scalable test frameworks using K6 and Playwright
 Expanding my knowledge of e2e testing, CI/CD pipelines, and release management
-Learning everything I can about quality-focused engineering practices!
+I am learning everything I can about quality-focused engineering practices!
 <br />
 <br />
 <br />🌱 I'm currently learning...<br />
-Improving my Test suite for Cypress
+Improving my Test suite for Playwright and Web development
 Becoming a bug hunter to incorporate security testing into my daily activities
 Performance testing tools like k6
 <br />
 <br />
 <br />👯 I'm looking to collaborate on...<br />
-Automation frameworks and scripting using Selenium, Appium, Cypress, etc.
 Open-source testing tools and projects
 Test strategy, methodology, training, and enablement initiatives
 Opportunities to advance QA skills and connections
