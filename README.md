@@ -13,7 +13,7 @@ I'm Antonio, a QA Engineer and Security enthusiast based in the UK. Welcome to m
 <br />
 <br />
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antwan1&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <br />
 <br />
