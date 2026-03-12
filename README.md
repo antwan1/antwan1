@@ -1,68 +1,58 @@
+<div align="center">
+  <img src="https://github.com/antwan1/antwan1/assets/68503492/643be72f-319f-4e12-ba7d-19da7fa517f3" width="120" style="border-radius: 50%;" />
+  
+  # Antonio Molina
+  ### QA Engineer & SDET | Playwright · TypeScript · Azure DevOps
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-molina-326768124/)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antoniore385@gmail.com)
+</div>
 
-![1705274542886](https://github.com/antwan1/antwan1/assets/68503492/643be72f-319f-4e12-ba7d-19da7fa517f3)
+---
 
+## 👋 About Me
 
-<h1 style ="text-align: center;"> Welcome!</h1>
-<br />
-I'm Antonio, a QA Engineer and Security enthusiast based in the UK. Welcome to my GitHub!
+QA Engineer with 5 years of experience across manual and automation testing. I specialise in building Playwright test frameworks with TypeScript, managing CI/CD pipelines in Azure DevOps, and embedding quality into fast-moving product teams.
 
-<br />
-<br />
+Currently levelling up my backend development skills and working toward senior SDET roles.
 
+---
+
+## 🔭 What I'm Working On
+
+- **sdet_journey** — A full Playwright + TypeScript framework built to showcase real-world test architecture, Page Object Model, and CI integration via GitHub Actions
+- **Backend development** — Progressing through Boot.dev's Python backend track to strengthen my engineering foundations
+- Delivering a real-world web project for a small business client
+
+---
+
+## 🛠️ Tech Stack
+
+**Testing:** Playwright, Cypress, Cucumber (BDD), Postman, K6, Fiddler  
+**DevOps:** Azure DevOps, Azure Pipelines, GitHub Actions, Git, Linux  
+**Languages:** TypeScript, Python, SQL  
+**Tools:** Qase, Jira, TestRail, LambdaTest, Charles Proxy, DBeaver
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=antwan1&show_icons=true&theme=radical)
-<br />
-<br />
-<br />
 
+</div>
 
-<br />
-<br />
-🔭 I'm currently working on...<br />
-Automating web, API, and performance testing processes at Edgefolio
-Building out scalable test frameworks using K6 and Playwright
-Expanding my knowledge of e2e testing, CI/CD pipelines, and release management
-I am learning everything I can about quality-focused engineering practices!
-<br />
-<br />
-<br />🌱 I'm currently learning...<br />
-Improving my Test suite for Playwright and Web development
-Becoming a bug hunter to incorporate security testing into my daily activities
-Performance testing tools like k6
-<br />
-<br />
-<br />👯 I'm looking to collaborate on...<br />
-Open-source testing tools and projects
-Test strategy, methodology, training, and enablement initiatives
-Opportunities to advance QA skills and connections
-<br />
-<br />
-<br />🤔 I'm looking for help with...<br />
-Breaking into more senior QA/SDET/Security roles
-Finding great mentors in the software testing community
-Building out my technical skills and project portfolio
-<br />
-<br />📫 How to reach me:<br />
-LinkedIn: https://www.linkedin.com/in/antonio-molina-326768124/
-<br />
-Email: antoniore385@gmail.com
+---
 
-<br />
-<br />⚡ Fun fact:<br />
-I'm a major history buff and love learning about medieval battles and warriors 🗡
+## 🤝 Open To
 
+- Collaborating on open-source testing tools and frameworks
+- Connecting with QA engineers, SDETs, and engineering teams
+- Mid-level to senior QA/SDET opportunities in the UK
 
+---
 
-<!--
-**antwan1/antwan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ⚡ Fun Fact
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+History buff with a deep love for medieval warfare and strategy 🗡️
