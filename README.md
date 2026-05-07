@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/antwan1/antwan1/assets/68503492/643be72f-319f-4e12-ba7d-19da7fa517f3" width="120" style="border-radius: 50%;" />
+
   
   # Antonio Molina
   ### QA Engineer & SDET | Playwright · TypeScript · Azure DevOps
